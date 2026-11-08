@@ -1,0 +1,12 @@
+{
+  "name": "skvasra-funrun",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node dev-server.cjs"
+  }
+}
